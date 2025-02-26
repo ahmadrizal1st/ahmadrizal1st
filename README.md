@@ -24,7 +24,7 @@
 
 <img  src="https://media4.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=6c09b9521dmu2yrce8inobfi8o1x74s8mvoxgea46sz2ekne&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="30%" align="right" alt="AHMAD RIZAL">
 
-### About Me⚡
+### 👨🏻‍💻 About Me
 
 - 👋 Hi, I’m `Ahmad Rizal`!
 - 🎓 A passionate Software Engineering student at `Universitas AKPRIND Indonesia`.
@@ -41,7 +41,7 @@ Let’s `connect` and `collaborate!` 🚀
   <img alt="github-snake" src="https://raw.githubusercontent.com/ahmadrizal1st/ahmadrizal1st/output/github-snake.svg" />
 </picture>
 
-### My Tech Skills
+### 💻 My Tech Skills
 
 #### Front-end
 
@@ -69,7 +69,7 @@ Let’s `connect` and `collaborate!` 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Stats
+### 📊 My GitHub Stats
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadrizal1st&show_icons=true&bg_color=292929&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
