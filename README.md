@@ -35,11 +35,11 @@
 
 Let’s `connect` and `collaborate!` 🚀
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-<img  src="https://media1.giphy.com/media/iiJ870TcI3PZKxatzS/giphy.gif?cid=6c09b952x6buj04wwadv5qrj4rxoefvg584xa629a4s93gho&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%" alt="AHMAD RIZAL">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadrizal1st/ahmadrizal1st/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadrizal1st/ahmadrizal1st/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ahmadrizal1st/ahmadrizal1st/output/github-snake.svg" />
+</picture>
 
 ### My Tech Skills
 
@@ -74,9 +74,3 @@ Let’s `connect` and `collaborate!` 🚀
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadrizal1st&show_icons=true&bg_color=292929&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadrizal1st/ahmadrizal1st/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadrizal1st/ahmadrizal1st/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ahmadrizal1st/ahmadrizal1st/output/github-snake.svg" />
-</picture>
