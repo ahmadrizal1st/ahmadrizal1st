@@ -43,29 +43,32 @@ Let’s `connect` and `collaborate!` 🚀
 
 ### 💻 My Tech Skills
 
-#### Front-end
+#### 🖼️ Front-end
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,sass,bootstrap,jquery,nuxtjs,svelte,vite)](https://skillicons.dev)
 
-[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)
+#### ⚙️ Back-end
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,laravel,flask,django,fastapi)](https://skillicons.dev)
 
-#### Back-end
+#### 🌐 Website & CMS
+[![Website Skills](https://skillicons.dev/icons?i=nextjs,wordpress,livewire)](https://skillicons.dev)
 
-[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express,golang,laravel)](https://skillicons.dev)
+#### 📱 Mobile
+[![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift)](https://skillicons.dev)
 
-#### Website
+#### 🗄️ Database
+[![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis)](https://skillicons.dev)
 
-[![My Website Skills](https://skillicons.dev/icons?i=js,ts,nextjs)](https://skillicons.dev)
+#### 🔧 Dev Tools & Others
+[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,github,git,postman,figma,dbeaver,kafka,markdown,vscode,netlify)](https://skillicons.dev)
 
-#### Mobile
+#### 🧠 AI & Data
+[![AI Tools](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 
-[![Android Skills](https://skillicons.dev/icons?i=kotlin,java)](https://skillicons.dev)
+#### 💻 OS, CLI & IDE
+[![System Tools](https://skillicons.dev/icons?i=macos,bash,linux,terminal)](https://skillicons.dev)
 
-#### Database
-
-[![My Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,cassandra)](https://skillicons.dev)
-
-#### Other Languages
-
-[![My Other Languages Skills](https://skillicons.dev/icons?i=python,cpp,php)](https://skillicons.dev)
+#### 🧩 Game Dev
+[![Game Dev](https://skillicons.dev/icons?i=godot,lua)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
