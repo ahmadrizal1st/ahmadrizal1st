@@ -56,7 +56,7 @@ Let’s `connect` and `collaborate!` 🚀
 [![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift)](https://skillicons.dev)
 
 #### 🗄️ Database
-[![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,cassandra,redis)](https://skillicons.dev)
 
 #### 🔧 Dev Tools & Others
 [![Tools](https://skillicons.dev/icons?i=docker,kubernetes,github,git,postman,figma,kafka,markdown,vscode,netlify)](https://skillicons.dev)
@@ -69,6 +69,9 @@ Let’s `connect` and `collaborate!` 🚀
 
 #### 🧩 Game Dev
 [![Game Dev](https://skillicons.dev/icons?i=godot,lua)](https://skillicons.dev)
+
+#### 🕹️ Other Languages  
+[![My Other Languages Skills](https://skillicons.dev/icons?i=python,cpp,php)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
