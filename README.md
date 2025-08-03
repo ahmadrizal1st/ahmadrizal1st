@@ -50,7 +50,7 @@ Let’s `connect` and `collaborate!` 🚀
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,laravel,flask,django,fastapi)](https://skillicons.dev)
 
 #### 🌐 Website & CMS
-[![Website Skills](https://skillicons.dev/icons?i=nextjs,wordpress,livewire)](https://skillicons.dev)
+[![Website Skills](https://skillicons.dev/icons?i=nextjs,wordpress)](https://skillicons.dev)
 
 #### 📱 Mobile
 [![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift)](https://skillicons.dev)
