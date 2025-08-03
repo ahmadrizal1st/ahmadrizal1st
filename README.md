@@ -61,7 +61,7 @@ Let’s `connect` and `collaborate!` 🚀
 
 #### Database
 
-[![My Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)](https://skillicons.dev)
+[![My Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,cassandra)](https://skillicons.dev)
 
 #### Other Languages
 
