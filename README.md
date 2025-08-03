@@ -59,13 +59,13 @@ Let’s `connect` and `collaborate!` 🚀
 [![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis)](https://skillicons.dev)
 
 #### 🔧 Dev Tools & Others
-[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,github,git,postman,figma,dbeaver,kafka,markdown,vscode,netlify)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,github,git,postman,figma,kafka,markdown,vscode,netlify)](https://skillicons.dev)
 
 #### 🧠 AI & Data
 [![AI Tools](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 
 #### 💻 OS, CLI & IDE
-[![System Tools](https://skillicons.dev/icons?i=macos,bash,linux,terminal)](https://skillicons.dev)
+[![System Tools](https://skillicons.dev/icons?i=bash,linux,terminal)](https://skillicons.dev)
 
 #### 🧩 Game Dev
 [![Game Dev](https://skillicons.dev/icons?i=godot,lua)](https://skillicons.dev)
