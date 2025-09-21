@@ -35,13 +35,6 @@
 
 Let’s `connect` and `collaborate!` 🚀
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadrizal1st/ahmadrizal1st/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadrizal1st/ahmadrizal1st/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ahmadrizal1st/ahmadrizal1st/output/github-snake.svg" />
-</picture>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 My GitHub Stats
 
@@ -50,42 +43,29 @@ Let’s `connect` and `collaborate!` 🚀
 </div>
 
 
-# Java Developer Learning Path: A Structured Curriculum
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadrizal1st/ahmadrizal1st/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadrizal1st/ahmadrizal1st/output/github-snake.svg" />
+
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ahmadrizal1st/ahmadrizal1st/output/github-snake.svg" />
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Product Suite
+
+| Name | Description | Type |
+| :--- | :--- | :--- |
+| **[tun8n](https://github.com/ahmadrizal1st/tun8n)** | **🚀 Tun8n - Dockerized n8n with Ngrok integration for instant webhook exposure. Deploy your automation workflows in minutes with custom domain support.** | **Package [NPM](https://npmjs.com)** |
+| **[nextjs-googledrive-oauth2](https://github.com/ahmadrizal1st/nextjs-googledrive-oauth2)** | This project is a Next.js application that integrates Google Drive OAuth2 authentication. It allows users to securely connect their Google account, authenticate via OAuth2, and interact with their Google Drive files directly from a Next.js interface. | **Starter Kit** (nextjs + googleapi + oauth2) |
+| **[url-shortener](https://github.com/ahmadrizal1st/url-shortener)** | A simple URL shortener built with Golang, PostgreSQL, and Redis. It stores original URLs and generates short links for easy sharing. | **Starter Kit** (golang + redis + postgress) |
+| **[phpmyadmin-docker](https://github.com/ahmadrizal1st/phpmyadmin-docker)** | 🚀 Docker Compose setup for phpMyAdmin with customizable database backend. Perfect for local development, testing, and learning environments. Supports multiple database engines and includes persistent storage, environment variables, and easy management. | **Boilerplate Code** (mysql & mariadb with phpmyadmin docker container) |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# [Java Developer Learning Path: A Structured Curriculum](https://github.com/ahmadrizal1st/java/#readme)
 
 This comprehensive roadmap provides a structured approach to mastering Java development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
-
-```mermaid
-flowchart TD
-    A[Start Java Journey] --> B[Fundamentals<br>Weeks 1-4]
-    B --> C[OOP Core<br>Weeks 5-8]
-    C --> D[Data & APIs<br>Weeks 9-12]
-    D --> E[Advanced Java<br>Weeks 13-16]
-    E --> F[Specialization<br>Week 17+]
-    
-    B --> B1[Setup<br>JDK, IDE]
-    B1 --> B2[Syntax Basics]
-    B2 --> B3[Variables & Types]
-    B3 --> B4[Operators]
-    B4 --> B5[Control Flow]
-    B5 --> B6[Arrays & Strings]
-    
-    C --> C1[Classes/Objects]
-    C1 --> C2[4 Pillars of OOP<br>Encapsulation, Inheritance,<br>Polymorphism, Abstraction]
-    C2 --> C3[Advanced Classes<br>static, final, packages]
-    
-    D --> D1[Exception Handling]
-    D1 --> D2[Collections Framework<br>List, Set, Map]
-    D2 --> D3[Generics]
-    D3 --> D4[Standard APIs<br>java.time, Object class]
-    
-    E --> E1[Java 8+ Features<br>Lambdas, Streams]
-    E1 --> E2[I/O & Files]
-    E2 --> E3[Concurrency Basics<br>Threads]
-    
-    F --> F1[Tools<br>Git, Maven, JUnit]
-    F1 --> F2[Build Project]
-    F2 --> F3[Choose Path:<br>Spring Boot, Android, JavaFX]
-```
 
 ---
 
