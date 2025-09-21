@@ -75,10 +75,9 @@ Let’s `connect` and `collaborate!` 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 ### 📊 My GitHub Stats
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadrizal1st&show_icons=true&bg_color=292929&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
 </div>
-
----
