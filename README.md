@@ -71,3 +71,68 @@ This comprehensive roadmap provides a structured approach to mastering Java deve
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML Developer Learning Path: A Structured Curriculum
+
+This comprehensive roadmap provides a structured approach to mastering HTML development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS Developer Learning Path: A Structured Curriculum
+
+This comprehensive roadmap provides a structured approach to mastering CSS development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript Developer Learning Path: A Structured Curriculum
+
+This comprehensive roadmap provides a structured approach to mastering JavaScript development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) TypeScript Developer Learning Path: A Structured Curriculum
+
+This comprehensive roadmap provides a structured approach to mastering TypeScript development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# [![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) SQL Developer Learning Path: A Structured Curriculum
+
+This comprehensive roadmap provides a structured approach to mastering SQL development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) C++ Developer Learning Path: A Structured Curriculum
+
+This comprehensive roadmap provides a structured approach to mastering C++ development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) Python Developer Learning Path: A Structured Curriculum
+
+This comprehensive roadmap provides a structured approach to mastering Python development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) Git Developer Learning Path: A Structured Curriculum
+
+This comprehensive roadmap provides a structured approach to mastering Git development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) Bash Developer Learning Path: A Structured Curriculum
+
+This comprehensive roadmap provides a structured approach to mastering Bash development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev) Kotlin Developer Learning Path: A Structured Curriculum
+
+This comprehensive roadmap provides a structured approach to mastering Kotlin development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# [![HTTP](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev) HTTP Developer Learning Path: A Structured Curriculum
+
+This comprehensive roadmap provides a structured approach to mastering HTTP development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
