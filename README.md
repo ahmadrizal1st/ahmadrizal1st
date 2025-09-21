@@ -24,16 +24,18 @@
 
 <img  src="https://media4.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=6c09b9521dmu2yrce8inobfi8o1x74s8mvoxgea46sz2ekne&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="30%" align="right" alt="AHMAD RIZAL">
 
-### 👨🏻‍💻 About Me
+### 👨‍💻 About Me
 
-- 👋 Hi, I’m `Ahmad Rizal`!
-- 🎓 A passionate Software Engineering student at `Universitas AKPRIND Indonesia`.
-- 💡 I love building web and mobile applications that solve real-world problems.
-- 🛠️ My favorite tech like `Javascript`, `Typescript`, `Laravel`, and `Kotlin`.
-- 🚀 Aspiring to become a `Full Stack Developer`, `focusing on scalability, performance`, and `great UI/UX`.
-- 📍 Based in `Yogyakarta, Indonesia`.
+-   👋 Hi, I’m **Ahmad Rizal**, a results-driven Software Engineering student at **Universitas AKPRIND Indonesia** with a strong passion for data-driven development.
+-   💡 I specialize in building **full-stack applications** and designing **data pipelines** that transform raw data into actionable insights and scalable solutions.
+-   🛠️ **Tech Stack:**  
+    -   **Software Engineering:** Next.js, Laravel, Kotlin, Flutter, Docker
+    -   **Data Analysis:** Python (Pandas, NumPy, Scikit-learn), SQL, R, Tableau, Power BI
+-   📊 Experienced in performing **data cleaning, statistical analysis, and visualization** to support business intelligence and feature optimization in software projects.
+-   🚀 Aiming to bridge the gap between **software development** and **data analytics** by creating systems that are not only functional but also intelligent and metrics-aware.
+-   📍 Based in **Yogyakarta, Indonesia**.
 
-Let’s `connect` and `collaborate!` 🚀
+I am actively seeking opportunities to contribute to projects that leverage both **engineering excellence** and **data-informed decision-making**. Let’s connect and discuss how we can drive innovation together! 🚀
 
 
 ### 📊 My GitHub Stats
