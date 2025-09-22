@@ -62,20 +62,20 @@ I am actively seeking opportunities to contribute to projects that leverage both
   <tr>
     <td align="center" style="background-color: #C0C0C0; padding: 20px; border-radius: 10px;">
       <h3>🥈 JUARA 2</h3>
-      <b>Project 1</b><br>
-      Score: 85<br>
+      <a href="https://github.com/ahmadrizal1st/tun8n">
+      <b>tun8n</b></a><br>
       Silver Medal
     </td>
     <td align="center" style="background-color: #FFD700; padding: 20px; border-radius: 10px;">
       <h3>🥇 JUARA 1</h3>
-      <b>Project 2</b><br>
-      Score: 100<br>
+      <a href="https://github.com/ahmadrizal1st/website-humanika">
+      <b>website-humanika</b></a><br>
       Gold Medal
     </td>
     <td align="center" style="background-color: #CD7F32; padding: 20px; border-radius: 10px;">
       <h3>🥉 JUARA 3</h3>
-      <b>Project 3</b><br>
-      Score: 70<br>
+      <a href="https://github.com/ahmadrizal1st/url-shortener">
+      <b>url-shorterner</b></a><br>
       Bronze Medal
     </td>
   </tr>
@@ -86,7 +86,7 @@ I am actively seeking opportunities to contribute to projects that leverage both
 
 | Name | Description | Tech | Type |
 | :--- | :--- | :--- |  :--- | 
-| **[website-humanika](https://github.com/ahmadrizal1st/website-humanika)** | **Website Humanika** | [nextjs](https://nextjs.org) + [googleapi](https://cloud.google.com) + [oauth2](https://developers.google.com) + [mongodbatlas-cloud](https://mongodb.com) + [prisma-orm](https://prisma.io) + [resend](https://resend.com)| **Project Public** |
+| **[website-humanika](https://github.com/ahmadrizal1st/website-humanika)** | **Website Humanika** | [nextjs](https://nextjs.org) + [googleapi](https://cloud.google.com) + [oauth2](https://developers.google.com) + [mongodbatlas-cloud](https://mongodb.com) + [prisma-orm](https://prisma.io) + [resend](https://resend.com)| **Project Private** |
 | **[tun8n](https://github.com/ahmadrizal1st/tun8n)** | **Tun8n - Dockerized n8n with Ngrok integration for instant webhook exposure. Deploy your automation workflows in minutes with custom domain support.** | [npm](https://npmjs.com) | **Package** |
 | **[nextjs-googledrive-oauth2](https://github.com/ahmadrizal1st/nextjs-googledrive-oauth2)** | This project is a Next.js application that integrates Google Drive OAuth2 authentication. It allows users to securely connect their Google account, authenticate via OAuth2, and interact with their Google Drive files directly from a Next.js interface. | [nextjs](https://nextjs.org) + [googleapi](https://cloud.google.com) + [oauth2](https://developers.google.com) | **Starter Kit** |
 | **[url-shortener](https://github.com/ahmadrizal1st/url-shortener)** | A simple URL shortener built with Golang, PostgreSQL, and Redis. It stores original URLs and generates short links for easy sharing. | [golang](https://go.dev) + [redis](https://redis.io) + [postgress](https://postgresql.org) | **Starter Kit** |
