@@ -86,7 +86,7 @@ I am actively seeking opportunities to contribute to projects that leverage both
 
 | Name | Description | Tech | Type |
 | :--- | :--- | :--- |  :--- | 
-| **[website-humanika](https://github.com/ahmadrizal1st/website-humanika)** | **Website Humanika** | [nextjs](https://nextjs.org) + [googleapi](https://cloud.google.com) + [oauth2](https://developers.google.com) + [mongodbatlas-cloud](https://mongodb.com) + [prisma-orm](https://prisma.io) + | **Package** |
+| **[website-humanika](https://github.com/ahmadrizal1st/website-humanika)** | **Website Humanika** | [nextjs](https://nextjs.org) + [googleapi](https://cloud.google.com) + [oauth2](https://developers.google.com) + [mongodbatlas-cloud](https://mongodb.com) + [prisma-orm](https://prisma.io) + [resend](https://resend.com)| **Project Public** |
 | **[tun8n](https://github.com/ahmadrizal1st/tun8n)** | **Tun8n - Dockerized n8n with Ngrok integration for instant webhook exposure. Deploy your automation workflows in minutes with custom domain support.** | [npm](https://npmjs.com) | **Package** |
 | **[nextjs-googledrive-oauth2](https://github.com/ahmadrizal1st/nextjs-googledrive-oauth2)** | This project is a Next.js application that integrates Google Drive OAuth2 authentication. It allows users to securely connect their Google account, authenticate via OAuth2, and interact with their Google Drive files directly from a Next.js interface. | [nextjs](https://nextjs.org) + [googleapi](https://cloud.google.com) + [oauth2](https://developers.google.com) | **Starter Kit** |
 | **[url-shortener](https://github.com/ahmadrizal1st/url-shortener)** | A simple URL shortener built with Golang, PostgreSQL, and Redis. It stores original URLs and generates short links for easy sharing. | [golang](https://go.dev) + [redis](https://redis.io) + [postgress](https://postgresql.org) | **Starter Kit** |
@@ -96,9 +96,6 @@ I am actively seeking opportunities to contribute to projects that leverage both
 | **[vue-photobooth](https://github.com/ahmadrizal1st/vue-photo-booth)** | Photo Booth App is a web-based photo booth built with Vite + Vue.js and Tailwind CSS. It lets users choose templates, take photos with timer, filters, and mirror options, customize frames or background colors, retake selected shots, and download the final photo booth result. | [vue,js](https://vuejs.org) & [tailwindcss](https://tailwindcss.com) | **Project Public** |
 | **[cadira-rental](https://github.com/ahmadrizal1st/cadira-rental)** | This is a simple Car Rental Management System developed in Java using Swing for the GUI, MySQL for the database, and following the Model-View-Controller (MVC) architectural pattern. | [java](https://java.com) + [JDBC mysql](https://dev.mysql.com/downloads/connector/j/) + [swingX](https://mvnrepository.com/artifact/org.swinglabs/swingx/1.6.1) | **Project Public** |
 | **[website-credit-admin-dashboard](https://github.com/ahmadrizal1st/website-credit-admin-dashboard)** | A powerful and intuitive Admin Dashboard built with core PHP and MySQL for managing a website-based credit or financing system. This dashboard provides administrators with a comprehensive interface to monitor, approve, and manage user credit applications efficiently. | [php](https://php.net) & [mysql](https://mysql.com) | **Project Public** |
-
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
