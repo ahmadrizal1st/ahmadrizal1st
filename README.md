@@ -37,8 +37,7 @@
 
 I am actively seeking opportunities to contribute to projects that leverage both **engineering excellence** and **data-informed decision-making**. Let’s connect and discuss how we can drive innovation together! 🚀
 
-
-### 📊 My GitHub Stats
+<h1 align=center>📊 My GitHub Stats</h1>
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadrizal1st&show_icons=true&bg_color=292929&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
