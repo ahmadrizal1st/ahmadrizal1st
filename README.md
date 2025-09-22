@@ -61,19 +61,19 @@ I am actively seeking opportunities to contribute to projects that leverage both
 <table>
   <tr>
     <td align="center" style="background-color: #C0C0C0; padding: 20px; border-radius: 10px;">
-      <h3>🥈 JUARA 2</h3>
+      <h3>🥈 2nd PLACE</h3>
       <a href="https://github.com/ahmadrizal1st/tun8n">
       <b>tun8n</b></a><br>
       Silver Medal
     </td>
     <td align="center" style="background-color: #FFD700; padding: 20px; border-radius: 10px;">
-      <h3>🥇 JUARA 1</h3>
+      <h3>🥇 CHAMPION</h3>
       <a href="https://github.com/ahmadrizal1st/website-humanika">
       <b>website-humanika</b></a><br>
       Gold Medal
     </td>
     <td align="center" style="background-color: #CD7F32; padding: 20px; border-radius: 10px;">
-      <h3>🥉 JUARA 3</h3>
+      <h3>🥉 3rd PLACE</h3>
       <a href="https://github.com/ahmadrizal1st/url-shortener">
       <b>url-shorterner</b></a><br>
       Bronze Medal
