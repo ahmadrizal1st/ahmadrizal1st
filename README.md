@@ -54,7 +54,7 @@ I am actively seeking opportunities to contribute to projects that leverage both
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Product Suite
+<h1 align=center>🚀 Product Suite 💻</h1>
 
 | Name | Description | Tech | Type |
 | :--- | :--- | :--- |  :--- | 
@@ -64,6 +64,8 @@ I am actively seeking opportunities to contribute to projects that leverage both
 | **[phpmyadmin-docker](https://github.com/ahmadrizal1st/phpmyadmin-docker)** | 🚀 Docker Compose setup for phpMyAdmin with customizable database backend. Perfect for local development, testing, and learning environments. Supports multiple database engines and includes persistent storage, environment variables, and easy management. | [mysql](https://hub.docker.com/_/mysql) & [mariadb](https://hub.docker.com/_/mariadb) with [phpmyadmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin) and [docker](https://docs.docker.com/) container) | **Boilerplate Code** |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h1 align=center>📚 Learning Modules & Tutorials</h1>
 
 # [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [Java Developer Learning Path: A Structured Curriculum](https://github.com/ahmadrizal1st/java/#readme)
 
