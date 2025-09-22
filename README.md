@@ -71,7 +71,7 @@ I am actively seeking opportunities to contribute to projects that leverage both
 This comprehensive roadmap provides a structured approach to mastering Java development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 
 ---
 
@@ -118,7 +118,7 @@ This comprehensive roadmap provides a structured approach to mastering Java deve
 This comprehensive roadmap provides a structured approach to mastering HTML development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
@@ -129,7 +129,7 @@ This comprehensive roadmap provides a structured approach to mastering HTML deve
 This comprehensive roadmap provides a structured approach to mastering CSS development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
@@ -140,7 +140,7 @@ This comprehensive roadmap provides a structured approach to mastering CSS devel
 This comprehensive roadmap provides a structured approach to mastering JavaScript development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
@@ -151,7 +151,7 @@ This comprehensive roadmap provides a structured approach to mastering JavaScrip
 This comprehensive roadmap provides a structured approach to mastering TypeScript development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
@@ -162,7 +162,7 @@ This comprehensive roadmap provides a structured approach to mastering TypeScrip
 This comprehensive roadmap provides a structured approach to mastering SQL development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
@@ -173,7 +173,7 @@ This comprehensive roadmap provides a structured approach to mastering SQL devel
 This comprehensive roadmap provides a structured approach to mastering C++ development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
@@ -184,7 +184,7 @@ This comprehensive roadmap provides a structured approach to mastering C++ devel
 This comprehensive roadmap provides a structured approach to mastering Python development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
@@ -195,7 +195,7 @@ This comprehensive roadmap provides a structured approach to mastering Python de
 This comprehensive roadmap provides a structured approach to mastering Git development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
@@ -206,7 +206,7 @@ This comprehensive roadmap provides a structured approach to mastering Git devel
 This comprehensive roadmap provides a structured approach to mastering Bash development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
@@ -217,7 +217,7 @@ This comprehensive roadmap provides a structured approach to mastering Bash deve
 This comprehensive roadmap provides a structured approach to mastering Kotlin development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
@@ -228,7 +228,7 @@ This comprehensive roadmap provides a structured approach to mastering Kotlin de
 This comprehensive roadmap provides a structured approach to mastering PHP development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
@@ -240,7 +240,7 @@ This comprehensive roadmap provides a structured approach to mastering PHP devel
 This comprehensive roadmap provides a structured approach to mastering HTTP development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
@@ -251,7 +251,7 @@ This comprehensive roadmap provides a structured approach to mastering HTTP deve
 This comprehensive roadmap provides a structured approach to mastering Golang development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
@@ -263,7 +263,7 @@ This comprehensive roadmap provides a structured approach to mastering Golang de
 This comprehensive roadmap provides a structured approach to mastering Markdown development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
 <details>
-<summary style="cursor: pointer; font-weight: bold;">📚 Klik untuk melihat Kurikulum Lengkap</summary>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
 ---
 </details>
 
