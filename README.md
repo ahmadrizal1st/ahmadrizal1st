@@ -101,7 +101,7 @@ I am actively seeking opportunities to contribute to projects that leverage both
 
 <h1 align=center>📚 Learning Modules & Tutorials</h1>
 
-# [![Logic](https://skillicons.dev/icons?i=logic)](https://skillicons.dev) [Logic Developer Learning Path: A Structured Curriculum](https://github.com/ahmadrizal1st/logic/#readme)
+# [![Logic](https://skillicons.dev/icons?i=regex)](https://skillicons.dev) [Logic Developer Learning Path: A Structured Curriculum](https://github.com/ahmadrizal1st/logic/#readme)
 
 This comprehensive roadmap provides a structured approach to mastering Logic development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
@@ -112,7 +112,7 @@ This comprehensive roadmap provides a structured approach to mastering Logic dev
 
 ---
 
-# [![Flowchart](https://skillicons.dev/icons?i=flow)](https://skillicons.dev) [Flowchart Developer Learning Path: A Structured Curriculum](https://github.com/ahmadrizal1st/flowchart/#readme)
+# [![Flowchart](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) [Flowchart Developer Learning Path: A Structured Curriculum](https://github.com/ahmadrizal1st/flowchart/#readme)
 
 This comprehensive roadmap provides a structured approach to mastering Flowchart development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
 
