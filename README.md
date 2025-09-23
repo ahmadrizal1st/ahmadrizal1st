@@ -123,6 +123,17 @@ This comprehensive roadmap provides a structured approach to mastering Flowchart
 
 ---
 
+# [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) [Linux Developer Learning Path: A Structured Curriculum](https://github.com/ahmadrizal1st/linux/#readme)
+
+This comprehensive roadmap provides a structured approach to mastering Linux development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
+
+<details>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
+---
+</details>
+
+---
+
 # [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [Java Developer Learning Path: A Structured Curriculum](https://github.com/ahmadrizal1st/java/#readme)
 
 This comprehensive roadmap provides a structured approach to mastering Java development. The curriculum is designed sequentially, with each module building upon previous knowledge to ensure a solid foundation and progressive skill development.
