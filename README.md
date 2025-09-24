@@ -108,6 +108,7 @@ This comprehensive roadmap provides a structured approach to mastering Logic dev
 
 <details>
 <summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Curriculum</summary>
+  
 ---
 
 ## Phase 1: Fundamentals of Logical Thinking (Weeks 1-4)
