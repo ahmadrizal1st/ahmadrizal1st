@@ -98,6 +98,7 @@ I am actively seeking opportunities to contribute to projects that leverage both
 | **[website-credit-admin-dashboard](https://github.com/ahmadrizal1st/website-credit-admin-dashboard)** | A powerful and intuitive Admin Dashboard built with core PHP and MySQL for managing a website-based credit or financing system. This dashboard provides administrators with a comprehensive interface to monitor, approve, and manage user credit applications efficiently. | [php](https://php.net) & [mysql](https://mysql.com) | **Project Public** |
 | **[classic-calculator-apk-android](https://github.com/ahmadrizal1st/classic-calculator-apk-android.git)** | A simple Classic Calculator built using Kotlin for Android. | [android](https://android.com) with [kotlin](https://kotlinlang.org) | **Project Public** |
 | **[admin-filament](https://github.com/ahmadrizal1st/admin-filament.git)** | A simple admin dashboard filament built using php laravel. | [filament](https://filamentphp.com) with [laravel](https://laravel.com) | **Project Public** |
+| **[aquafin](https://github.com/ahmadrizal1st/aquafin.git)** | A simple website aquafin filament built using php laravel. | [filament](https://filamentphp.com) with [laravel](https://laravel.com) | **Project Public** |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
