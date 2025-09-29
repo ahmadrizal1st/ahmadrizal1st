@@ -99,6 +99,10 @@ I am actively seeking opportunities to contribute to projects that leverage both
 | **[classic-calculator-apk-android](https://github.com/ahmadrizal1st/classic-calculator-apk-android.git)** | A simple Classic Calculator built using Kotlin for Android. | [android](https://android.com) with [kotlin](https://kotlinlang.org) | **Project Public** |
 | **[admin-filament](https://github.com/ahmadrizal1st/admin-filament.git)** | A simple admin dashboard filament built using php laravel. | [filament](https://filamentphp.com) with [laravel](https://laravel.com) | **Project Public** |
 | **[aquafin](https://github.com/ahmadrizal1st/aquafin.git)** | A simple website aquafin filament built using php laravel. | [filament](https://filamentphp.com) with [laravel](https://laravel.com) | **Project Public** |
+| **[remind-bot](https://github.com/ahmadrizal1st/remind-bot.git)** | A simple Telegram bot to manage reminders and schedules with automated notifications. | Soon | **Soon** |
+| **[lokaria](https://github.com/ahmadrizal1st/lokaria.git)** | A room booking system for managing reservations, availability, and schedules efficiently. | Soon | **Soon** |
+| **[ecoin](https://github.com/ahmadrizal1st/ecoin.git)** | A Web3-based platform for waste tokenization and digital waste banks. It enables users to convert waste into tokens, supporting sustainable recycling and creating new economic opportunities. | Soon | **Soon** |
+| **[wordle-game](https://github.com/ahmadrizal1st/wordle-game.git)** | A Wordle-inspired web game built with React, Firebase (authentication & realtime database), and Tailwind CSS for styling. | Soon | **Soon** |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
