@@ -74,8 +74,8 @@ I am actively seeking opportunities to contribute to projects that leverage both
     </td>
     <td align="center" style="background-color: #CD7F32; padding: 20px; border-radius: 10px;">
       <h3>🥉 3rd PLACE</h3>
-      <a href="https://github.com/ahmadrizal1st/url-shortener">
-      <b>url-shorterner</b></a><br>
+      <a href="https://github.com/ahmadrizal1st/trimurl">
+      <b>trimurl</b></a><br>
       Bronze Medal
     </td>
   </tr>
@@ -100,6 +100,7 @@ I am actively seeking opportunities to contribute to projects that leverage both
 | **[classic-calculator-apk-android](https://github.com/ahmadrizal1st/classic-calculator-apk-android.git)** | A simple Classic Calculator built using Kotlin for Android. | [android](https://android.com) with [kotlin](https://kotlinlang.org) | **Project Public** |
 | **[admin-filament](https://github.com/ahmadrizal1st/admin-filament.git)** | A simple admin dashboard filament built using php laravel. | [filament](https://filamentphp.com) with [laravel](https://laravel.com) | **Project Public** |
 | **[aquafin](https://github.com/ahmadrizal1st/aquafin.git)** | A simple website aquafin filament built using php laravel. | [filament](https://filamentphp.com) with [laravel](https://laravel.com) | **Project Public** |
+| **[trimurl](https://github.com/ahmadrizal1st/trimurl)** | A full-stack URL shortener application consisting of a Go backend API and a React TypeScript frontend. This project allows users to shorten long URLs, manage them with custom short codes, set expiration times, add tags, and track redirects. | [react typescript](http://react.dev) + [golang](https://go.dev) + [redis](https://redis.io) + [postgress](https://postgresql.org) | **Starter Kit** |
 | **[remind-bot](https://github.com/ahmadrizal1st/remind-bot.git)** | A simple Telegram bot to manage reminders and schedules with automated notifications. | Soon | **Soon** |
 | **[lokaria](https://github.com/ahmadrizal1st/lokaria.git)** | A room booking system for managing reservations, availability, and schedules efficiently. | Soon | **Soon** |
 | **[ecoin](https://github.com/ahmadrizal1st/ecoin.git)** | A Web3-based platform for waste tokenization and digital waste banks. It enables users to convert waste into tokens, supporting sustainable recycling and creating new economic opportunities. | Soon | **Soon** |
