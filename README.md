@@ -265,7 +265,7 @@ This comprehensive roadmap provides a structured approach to mastering Linux dev
 
 ## Phase 5: Advanced Topics & Specialization
 
-*   [**Module 21: Advanced Shell Scripting**](https://github.com/ahmadrizal1st/linux-scripting/#readme)
+*   [**Module 21: Advanced Shell Scripting**](https://github.com/ahmadrizal1st/linux-scripting2/#readme)
 *   [**Module 22: Containerization with Docker**](https://github.com/ahmadrizal1st/linux-docker/#readme)
 *   [**Module 23: Automation with Ansible**](https://github.com/ahmadrizal1st/linux-ansible/#readme)
 *   [**Module 24: Capstone Project & Career Specialization**](https://github.com/ahmadrizal1st/linux-capstone/#readme)
