@@ -54,67 +54,68 @@ I am actively seeking opportunities to contribute to projects that leverage both
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align=center>🚀 Product Suite 💻</h1>
-<h3 align=center>🏆 TOP 3 CLASSEMENT</h3>
 
-<div align="center">
+<h3 align=center>Desktop</h3>
 
-<table>
-  <tr>
-    <td align="center" style="background-color: #C0C0C0; padding: 20px; border-radius: 10px;">
-      <h3>🥈 2nd PLACE</h3>
-      <a href="https://github.com/ahmadrizal1st/tun8n">
-      <b>tun8n</b></a><br>
-      Silver Medal
-    </td>
-    <td align="center" style="background-color: #FFD700; padding: 20px; border-radius: 10px;">
-      <h3>🥇 CHAMPION</h3>
-      <a href="https://github.com/ahmadrizal1st/website-humanika">
-      <b>website-humanika</b></a><br>
-      Gold Medal
-    </td>
-    <td align="center" style="background-color: #CD7F32; padding: 20px; border-radius: 10px;">
-      <h3>🥉 3rd PLACE</h3>
-      <a href="https://github.com/ahmadrizal1st/trimurl">
-      <b>trimurl</b></a><br>
-      Bronze Medal
-    </td>
-  </tr>
-</table>
+| Name | Description | Tech | Type |
+| :--- | :--- | :--- |  :--- | 
+| **[cadira-rental](https://github.com/ahmadrizal1st/cadira-rental)** | This is a simple Car Rental Management System developed in Java using Swing for the GUI, MySQL for the database, and following the Model-View-Controller (MVC) architectural pattern. | [java](https://java.com) + [JDBC mysql](https://dev.mysql.com/downloads/connector/j/) + [swingX](https://mvnrepository.com/artifact/org.swinglabs/swingx/1.6.1) | **Project Public** |
 
-</div>
-
+<h3 align=center>Website</h3>
 
 | Name | Description | Tech | Type |
 | :--- | :--- | :--- |  :--- | 
 | **[website-humanika](https://github.com/ahmadrizal1st/website-humanika)** | **Website Humanika** | [nextjs](https://nextjs.org) + [googleapi](https://cloud.google.com) + [oauth2](https://developers.google.com) + [mongodbatlas-cloud](https://mongodb.com) + [prisma-orm](https://prisma.io) + [resend](https://resend.com)| **Project Private** |
-| **[tun8n](https://github.com/ahmadrizal1st/tun8n)** | **Tun8n - Dockerized n8n with Ngrok integration for instant webhook exposure. Deploy your automation workflows in minutes with custom domain support.** | [npm](https://npmjs.com) | **Package** |
-| **[nextjs-googledrive-oauth2](https://github.com/ahmadrizal1st/nextjs-googledrive-oauth2)** | This project is a Next.js application that integrates Google Drive OAuth2 authentication. It allows users to securely connect their Google account, authenticate via OAuth2, and interact with their Google Drive files directly from a Next.js interface. | [nextjs](https://nextjs.org) + [googleapi](https://cloud.google.com) + [oauth2](https://developers.google.com) | **Starter Kit** |
-| **[url-shortener](https://github.com/ahmadrizal1st/url-shortener)** | A simple URL shortener built with Golang, PostgreSQL, and Redis. It stores original URLs and generates short links for easy sharing. | [golang](https://go.dev) + [redis](https://redis.io) + [postgress](https://postgresql.org) | **Starter Kit** |
-| **[phpmyadmin-docker](https://github.com/ahmadrizal1st/phpmyadmin-docker)** | Docker Compose setup for phpMyAdmin with customizable database backend. Perfect for local development, testing, and learning environments. Supports multiple database engines and includes persistent storage, environment variables, and easy management. | [mysql](https://hub.docker.com/_/mysql) & [mariadb](https://hub.docker.com/_/mariadb) with [phpmyadmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin) and [docker](https://docs.docker.com/) container | **Boilerplate Code** |
-| **[postgresql-docker](https://github.com/ahmadrizal1st/postgresql-docker)** | Docker Compose setup for postgresql with customizable database backend. Perfect for local development, testing, and learning environments. Supports multiple database engines and includes persistent storage, environment variables, and easy management. | [postgresql](https://hub.docker.com/_/postgres) and [docker](https://docs.docker.com/) container | **Boilerplate Code** |
 | **[Wijaya Kusuma Craft Website Finance]()** | Wijaya Kusuma Craft - Finance Dashboard A simple finance dashboard built with PHP and MySQL to manage income, expenses, and financial reports for Wijaya Kusuma Craft. | [php](https://php.net) & [mysql](https://mysql.com) | **Project Private** |
-| **[apotek-cpp](https://github.com/ahmadrizal1st/apotek-cpp)** | A desktop-based pharmacy management system built with C++. This application provides complete CRUD (Create, Read, Update, Delete) functionality for managing medicine inventory, stock, and expiration dates. | [cpp](https://devdocs.io/cpp/) & [makefile](https://makefiletutorial.com) | **Project Public** |
 | **[vue-photobooth](https://github.com/ahmadrizal1st/vue-photo-booth)** | Photo Booth App is a web-based photo booth built with Vite + Vue.js and Tailwind CSS. It lets users choose templates, take photos with timer, filters, and mirror options, customize frames or background colors, retake selected shots, and download the final photo booth result. | [vue,js](https://vuejs.org) & [tailwindcss](https://tailwindcss.com) | **Project Public** |
-| **[cadira-rental](https://github.com/ahmadrizal1st/cadira-rental)** | This is a simple Car Rental Management System developed in Java using Swing for the GUI, MySQL for the database, and following the Model-View-Controller (MVC) architectural pattern. | [java](https://java.com) + [JDBC mysql](https://dev.mysql.com/downloads/connector/j/) + [swingX](https://mvnrepository.com/artifact/org.swinglabs/swingx/1.6.1) | **Project Public** |
 | **[website-credit-admin-dashboard](https://github.com/ahmadrizal1st/website-credit-admin-dashboard)** | A powerful and intuitive Admin Dashboard built with core PHP and MySQL for managing a website-based credit or financing system. This dashboard provides administrators with a comprehensive interface to monitor, approve, and manage user credit applications efficiently. | [php](https://php.net) & [mysql](https://mysql.com) | **Project Public** |
-| **[classic-calculator-apk-android](https://github.com/ahmadrizal1st/classic-calculator-apk-android.git)** | A simple Classic Calculator built using Kotlin for Android. | [android](https://android.com) with [kotlin](https://kotlinlang.org) | **Project Public** |
 | **[admin-filament](https://github.com/ahmadrizal1st/admin-filament.git)** | A simple admin dashboard filament built using php laravel. | [filament](https://filamentphp.com) with [laravel](https://laravel.com) | **Project Public** |
 | **[aquafin](https://github.com/ahmadrizal1st/aquafin.git)** | A simple website aquafin filament built using php laravel. | [filament](https://filamentphp.com) with [laravel](https://laravel.com) | **Project Public** |
-| **[trimurl](https://github.com/ahmadrizal1st/trimurl)** | A full-stack URL shortener application consisting of a Go backend API and a React TypeScript frontend. This project allows users to shorten long URLs, manage them with custom short codes, set expiration times, add tags, and track redirects. | [react typescript](http://react.dev) + [golang](https://go.dev) + [redis](https://redis.io) + [postgress](https://postgresql.org) | **Starter Kit** |
+| **[lokaria](https://github.com/ahmadrizal1st/lokaria.git)** | A room booking system for managing reservations, availability, and schedules efficiently. | Soon | **Soon** |
+| **[ecoin](https://github.com/ahmadrizal1st/ecoin.git)** | A Web3-based platform for waste tokenization and digital waste banks. It enables users to convert waste into tokens, supporting sustainable recycling and creating new economic opportunities. | Soon | **Soon** |
+| **[wordle-game](https://github.com/ahmadrizal1st/wordle-game.git)** | A Wordle-inspired web game built with React, Firebase (authentication & realtime database), and Tailwind CSS for styling. | Soon | **Soon** |
+
+<h3 align=center>Mobile</h3>
+
+| Name | Description | Tech | Type |
+| :--- | :--- | :--- |  :--- | 
+| **[classic-calculator-apk-android](https://github.com/ahmadrizal1st/classic-calculator-apk-android.git)** | A simple Classic Calculator built using Kotlin for Android. | [android](https://android.com) with [kotlin](https://kotlinlang.org) | **Project Public** |
 | **[calculator-geometry-android](https://github.com/ahmadrizal1st/calculator-geometry-android.git)** | A simple Classic Calculator built using Kotlin for Android. | [android](https://android.com) with [kotlin](https://kotlinlang.org) | **Project Public** |
-| **[ubuntu-docker](https://github.com/ahmadrizal1st/linux-learning-lab)** | A Docker-based Ubuntu container designed for beginners to learn Linux command line in a safe, isolated environment. | [linux](https://www.linux.org), [ubuntu](https://ubuntu.com) and [docker](https://docs.docker.com/) container | **Boilerplate Code** |
 | **[restaurant-reservation](https://github.com/ahmadrizal1st/restaurant-reservation.git)** | A simple Restaurant Reservation built using Kotlin for Android. | [android](https://android.com) with [kotlin](https://kotlinlang.org) | **Project Public** |
 | **[android-retrofit](https://github.com/ahmadrizal1st/android-retrofit.git)** | An Android demo app demonstrating REST API integration using the Retrofit library. | [android](https://android.com) with [kotlin](https://kotlinlang.org) | **Project Public** |
 | **[counter-app-android-viewmodel](https://github.com/ahmadrizal1st/counter-app-android-viewmodel.git)** | A modern calculator application for Android built using the Model View architectural pattern. | [android](https://android.com) with [kotlin](https://kotlinlang.org) and design pattern [ModelView](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=id) | **Project Public** |
 | **[calculator-app-android-mvvm](https://github.com/ahmadrizal1st/calculator-app-android-mvvm.git)** | A modern calculator application for Android built using the Model-View-ViewModel (MVVM) architectural pattern. | [android](https://android.com) with [kotlin](https://kotlinlang.org) and design pattern [MVVM](https://www.dicoding.com/blog/tips-design-pattern-mvvm/) | **Project Public** |
 | **[remind-bot](https://github.com/ahmadrizal1st/remind-bot.git)** | A simple Telegram bot to manage reminders and schedules with automated notifications. | Soon | **Soon** |
-| **[lokaria](https://github.com/ahmadrizal1st/lokaria.git)** | A room booking system for managing reservations, availability, and schedules efficiently. | Soon | **Soon** |
-| **[ecoin](https://github.com/ahmadrizal1st/ecoin.git)** | A Web3-based platform for waste tokenization and digital waste banks. It enables users to convert waste into tokens, supporting sustainable recycling and creating new economic opportunities. | Soon | **Soon** |
-| **[wordle-game](https://github.com/ahmadrizal1st/wordle-game.git)** | A Wordle-inspired web game built with React, Firebase (authentication & realtime database), and Tailwind CSS for styling. | Soon | **Soon** |
+
+<h3 align=center>API</h3>
+
+| Name | Description | Tech | Type |
+| :--- | :--- | :--- |  :--- | 
+| **[url-shortener](https://github.com/ahmadrizal1st/url-shortener)** | A simple URL shortener built with Golang, PostgreSQL, and Redis. It stores original URLs and generates short links for easy sharing. | [golang](https://go.dev) + [redis](https://redis.io) + [postgress](https://postgresql.org) | **Starter Kit** |
+| **[trimurl](https://github.com/ahmadrizal1st/trimurl)** | A full-stack URL shortener application consisting of a Go backend API and a React TypeScript frontend. This project allows users to shorten long URLs, manage them with custom short codes, set expiration times, add tags, and track redirects. | [react typescript](http://react.dev) + [golang](https://go.dev) + [redis](https://redis.io) + [postgress](https://postgresql.org) | **Starter Kit** |
+| **[nextjs-googledrive-oauth2](https://github.com/ahmadrizal1st/nextjs-googledrive-oauth2)** | This project is a Next.js application that integrates Google Drive OAuth2 authentication. It allows users to securely connect their Google account, authenticate via OAuth2, and interact with their Google Drive files directly from a Next.js interface. | [nextjs](https://nextjs.org) + [googleapi](https://cloud.google.com) + [oauth2](https://developers.google.com) | **Starter Kit** |
+
+<h3 align=center>Container</h3>
+
+| Name | Description | Tech | Type |
+| :--- | :--- | :--- |  :--- |
+| **[phpmyadmin-docker](https://github.com/ahmadrizal1st/phpmyadmin-docker)** | Docker Compose setup for phpMyAdmin with customizable database backend. Perfect for local development, testing, and learning environments. Supports multiple database engines and includes persistent storage, environment variables, and easy management. | [mysql](https://hub.docker.com/_/mysql) & [mariadb](https://hub.docker.com/_/mariadb) with [phpmyadmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin) and [docker](https://docs.docker.com/) container | **Boilerplate Code** |
+| **[postgresql-docker](https://github.com/ahmadrizal1st/postgresql-docker)** | Docker Compose setup for postgresql with customizable database backend. Perfect for local development, testing, and learning environments. Supports multiple database engines and includes persistent storage, environment variables, and easy management. | [postgresql](https://hub.docker.com/_/postgres) and [docker](https://docs.docker.com/) container | **Boilerplate Code** |
+| **[ubuntu-docker](https://github.com/ahmadrizal1st/linux-learning-lab)** | A Docker-based Ubuntu container designed for beginners to learn Linux command line in a safe, isolated environment. | [linux](https://www.linux.org), [ubuntu](https://ubuntu.com) and [docker](https://docs.docker.com/) container | **Boilerplate Code** |
+
+<h3 align=center>CLI</h3>
+
+| Name | Description | Tech | Type |
+| :--- | :--- | :--- |  :--- |
+| **[tun8n](https://github.com/ahmadrizal1st/tun8n)** | **Tun8n - Dockerized n8n with Ngrok integration for instant webhook exposure. Deploy your automation workflows in minutes with custom domain support.** | [npm](https://npmjs.com) | **Package** |
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align=center>📚 Learning Modules & Tutorials</h1>
+
+<details>
+<summary style="cursor: pointer; font-weight: bold;">📚 Click to view the Complete Modules</summary>
 
 # [![Logic](https://skillicons.dev/icons?i=regex)](https://skillicons.dev) [Logic Developer Learning Path: A Structured Curriculum](https://github.com/ahmadrizal1st/logic/#readme)
 
@@ -1012,3 +1013,5 @@ This comprehensive roadmap provides a structured approach to mastering Golang de
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</details>
