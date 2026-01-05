@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Software Engineer</h1>
 
 <img src="https://media4.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=6c09b9521dmu2yrce8inobfi8o1x74s8mvoxgea46sz2ekne&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="30%" align="right" alt="AHMAD RIZAL">
 
