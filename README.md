@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-- 👋 Hi, I'm **Ahmad Rizal**, a passionate **Software Engineer** and Computer Science student at **Universitas AKPRIND Indonesia**.
+- 👋 Hi, I'm **Ahmad Rizal**, a passionate **Software Engineer** student at **Universitas AKPRIND Indonesia**.
 - 🏗️ I build **robust, scalable software systems** with focus on clean architecture, performance, and maintainability.
 - 🛠️ **Technical Expertise:**  
   - **Languages:** JavaScript/TypeScript, PHP, Kotlin, Dart
