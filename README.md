@@ -43,6 +43,7 @@ I'm actively looking for software engineering roles where I can contribute to me
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadrizal1st&show_icons=true&bg_color=292929&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrizal1st&layout=compact&&langs_count=8"/>
 </div>
 
 
