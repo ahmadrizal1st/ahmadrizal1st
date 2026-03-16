@@ -32,7 +32,7 @@
 - 🏗️ I build **robust, scalable software systems** with focus on clean architecture, performance, and maintainability.
 - 🛠️ **Technical Expertise:**  
   - **Languages:** JavaScript/TypeScript, PHP, Kotlin, Dart
-  - **Frameworks:** Next.js, React, Laravel, Flutter
+  - **Frameworks:** Next.js, Laravel, Flutter
   - **Infrastructure & Tools:** Docker, Git, CI/CD, REST APIs
 - 🚀 Passionate about solving complex technical problems and continuously learning modern software development practices.
 - 📍 Based in **Yogyakarta, Indonesia**.
